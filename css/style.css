@@ -37,4 +37,7 @@ h1 {
   border-bottom-color: rgb(204, 204, 204);
 }
 
+.small {
+  font-size: .8em;
+}
 
